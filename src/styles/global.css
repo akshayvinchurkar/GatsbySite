@@ -5,6 +5,6 @@
   display: flex;
   justify-content: center;
   flex-direction: column;
-  background-color: #333;
-  color: #fff;
+  background-color: #fff;
+  color: #333;
 }
