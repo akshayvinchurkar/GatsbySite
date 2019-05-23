@@ -1,16 +1,12 @@
 import React from "react"
-import { Link } from "gatsby"
 
 // bootstrap grid imports
 import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
-import Button from 'react-bootstrap/Button'
 
 // custom components
 import WebNavbar from "../components/navbar"
-
-import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 const Contactus = () => (
